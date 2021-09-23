@@ -1,8 +1,12 @@
+@import url(@import url'https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@500&display=swap');
 body{
     background-color: lightskyblue;
 }
+h2{
+    font-family: 'Bebas Neue', cursive
+}
 .col{
-    background-color: white;
+    background-color: rgb(62, 207, 233);
 }
 .container{
     margin-top:20px;
